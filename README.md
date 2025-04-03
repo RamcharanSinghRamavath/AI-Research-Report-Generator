@@ -28,6 +28,15 @@ fpdf – For generating high-quality PDF reports.
 
 dotenv – For secure API key management.
 
+## Project Screenshots
+
+![Screenshot 1](Images/Screenshot%202025-04-03%20233205.png)
+
+![Screenshot 2](Images/Screenshot%202025-04-03%20233218.png)
+
+![Screenshot 3](Images/Screenshot%202025-04-03%20233331.png)
+
+
 
 
 ## How to Run
