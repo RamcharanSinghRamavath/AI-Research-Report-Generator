@@ -36,8 +36,9 @@ dotenv – For secure API key management.
 
 ![Screenshot 3](Images/Screenshot%202025-04-03%20233331.png)
 
+## Live
 
-
+[Access the AI Research Report Generator](https://ai-research-report-generator-v9op.onrender.com/)
 
 ## How to Run
 
